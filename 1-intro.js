@@ -9,9 +9,9 @@
 // process    - info about the env where the programm is been executed
 // console.log('testing the dirname', __filename);
 // console.log('testing the dirname', __dirname);
-setTimeout(() => {
-  console.log('====================================');
-  console.log("Hello World");
-  console.log('====================================');
-}, 1000)
-console.log("Hello Salvatore");
+// setTimeout(() => {
+//   console.log('====================================');
+//   console.log("Hello World");
+//   console.log('====================================');
+// }, 1000)
+// console.log("Hello Salvatore");
