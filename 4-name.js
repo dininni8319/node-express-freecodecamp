@@ -5,6 +5,5 @@ const secret = "SUPER SECRET";
 const john = 'John';
 const peter = 'Peter';
 
-
-
+//similar to export default
 module.exports = {john, peter}
